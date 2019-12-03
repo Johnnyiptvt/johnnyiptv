@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 type="stream" tvg-id="A Fazenda 11" tvg-logo="https://i.ibb.co/PhfqYRv/afazenda11.png" group-title="Variedade",A Fazenda 11
-http:\\tv.factoryiptv.com:80\a8256ng62U6y\zgultipI2vX\62991
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_cffab121bd20b7d07b7d58d5fc90e6f4e222a15b.m3u8
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_08117376746585b2ca3b2323ca256d7b269269d6/playlist.m3u8
+#EXTINF:-1 type="stream" tvg-id="Record SP" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",Record SP
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
