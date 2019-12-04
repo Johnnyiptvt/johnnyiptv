@@ -1,7 +1,30 @@
 #EXTM3U
 #EXTINF:-1 type="stream" tvg-id="A Fazenda 11" tvg-logo="https://i.ibb.co/PhfqYRv/afazenda11.png" group-title="Variedade",A Fazenda 11
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_cffab121bd20b7d07b7d58d5fc90e6f4e222a15b.m3u8
-#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
+#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filmes e Serie",A&E
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_08117376746585b2ca3b2323ca256d7b269269d6/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Record SP" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",Record SP
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 type="stream" tvg-id="Record SP [2]" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",Record SP [2]
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 type="stream" tvg-id="Globo SP HD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",Globo SP HD
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/globosphd_3a69aa1b_5b65e66a492d12e03d4bd287af536a3764b985c2.m3u8
+#EXTINF:-1 type="stream" tvg-id="Globo SP" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",Globo HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_75d79b0cb4e98727e65bacea2619fdcec5e69a78/playlist.m3u8
+#EXTINF:-1 type="stream" tvg-id="SBT SP" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",SBT SP
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sbtsp_2a5ac580_55f7762da750547e287e0f8b69d27b0993524a4d/playlist.m3u8
+#EXTINF:-1 type="stream" tvg-id="SBT SP HD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",SBT SP HD
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Esportes",Premiere Clubes
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_fe5815befe783fd1e90b83537532bafbbe366559/playlist.m3u8
+#EXTINF:-1 type="stream" tvg-id="Premiere 2" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Esportes",Premiere 2
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere2_f5b68d74_7ad35b559536cb9118beedeef9b2fe6fe8f2cfcd.m3u8
+#EXTINF:-1 type="stream" tvg-id="Premiere 3" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Esportes",Premiere 3
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/premiere3_b903ea63_5357b76ee6e2abc60ddb3ab7e519744a21b49a46.m3u8
+#EXTINF:-1 type="stream" tvg-id="Premiere 4" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Esportes",Premiere 4
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiere4_142e9ae3_8cc5beef5a46bd321878cc82e2c170081546bab1.m3u8
+#EXTINF:-1 type="stream" tvg-id="Premiere 5" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Esportes",Premiere 5
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/premiere5_0486ffb0_f4e3078959b93a3099023186ca5b28cd96e2a434.m3u8
+#EXTINF:-1 type="stream" tvg-id="Premiere 6" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Esportes",Premiere 6
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/premiere6_8a279e5c_b8defe153e8d7bccaec14f5f10eec911d0bb81e7.m3u8
+#EXTINF:-1 type="stream" tvg-id="Premiere 7" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Esportes",Premiere 7
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/premiere7_0b6a6376_f09c61f75b21566bd2ba889890075f62a998fd2f.m3u8
