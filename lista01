@@ -7,10 +7,10 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_0811737674658
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 type="stream" tvg-id="Record SP [2]" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",Record SP [2]
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 type="stream" tvg-id="Globo SP HD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",Globo SP HD
-http://edge-aws.aovivo.club/hls/s:78.47.3.135/globosphd_3a69aa1b_5b65e66a492d12e03d4bd287af536a3764b985c2.m3u8
-#EXTINF:-1 type="stream" tvg-id="Globo SP" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",Globo HD
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_75d79b0cb4e98727e65bacea2619fdcec5e69a78/playlist.m3u8
+#EXTINF:-1 type="stream" tvg-id="Globo SP [1]" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",Globo SP [1]
+http://tvnanet.xyz:25461/live/palmeiras/semcopinha/118.m3u8
+#EXTINF:-1 type="stream" tvg-id="Globo SP [2]" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",Globo SP [2]
+https://live.multicanais.com/live/globosphd/video.m3u8?md5=O-j3GhJMxkHw_9ikTsXkZg&expires=15
 #EXTINF:-1 type="stream" tvg-id="SBT SP" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",SBT SP
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sbtsp_2a5ac580_55f7762da750547e287e0f8b69d27b0993524a4d/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="SBT SP HD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Canais Abertos",SBT SP HD
