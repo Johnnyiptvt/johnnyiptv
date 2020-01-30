@@ -28,3 +28,5 @@ http://edge-aws.aovivo.club/hls/s:78.47.3.135/premiere5_0486ffb0_f4e3078959b93a3
 http://edge-aws.aovivo.club/hls/s:78.46.240.155/premiere6_8a279e5c_b8defe153e8d7bccaec14f5f10eec911d0bb81e7.m3u8
 #EXTINF:-1 type="stream" tvg-id="Premiere 7" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Esportes",Premiere 7
 http://edge-aws.aovivo.club/hls/s:78.47.74.192/premiere7_0b6a6376_f09c61f75b21566bd2ba889890075f62a998fd2f.m3u8
+#EXTINF:-1, SUPERAÇÃO
+http://bin2.azureedge.net/RCFServer2/ondemand/SPRCOMLGRDFE.mp4?attachment=true
